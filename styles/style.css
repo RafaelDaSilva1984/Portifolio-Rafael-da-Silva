@@ -101,7 +101,7 @@ body {
 .apresentacao__links__subtitulo{
   font-family: var(--fonte--primaria);
   font-weight: 400;
-  font-size: 2,125rem;
+  font-size: 2.125rem;
 }
 .apresentacao__conteudo__texto__metas:hover{
   font-weight: 100;
@@ -116,7 +116,7 @@ body {
   padding: 24px;
   text-align: center;
   font-family: var(--fonte--secundaria);
-  font-size: 1,5rem;
+  font-size: 1.5rem;
   font-weight: 450;
 }
 .apresentacao__imagen {
@@ -146,7 +146,6 @@ body {
     .apresentacao__conteudo__texto__metas:hover{
       width: auto;
     }
-    .apresentacao__links__navegacao:hover{
-      width: auto;
-    }
+    
+    
 }
