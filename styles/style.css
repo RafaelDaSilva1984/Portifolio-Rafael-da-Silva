@@ -141,7 +141,7 @@ body {
     padding: 5% ;
     }
     .apresentacao__conteudo{
-      width: 100%;
+      width: auto;
     }
     .apresentacao__conteudo__texto__metas:hover{
       width: auto;
